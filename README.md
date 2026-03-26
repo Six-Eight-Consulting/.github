@@ -87,7 +87,3 @@ Diese GitHub-Organisation soll:
 Die Inhalte dieser Organisation können je nach Repository unterschiedliche Lizenzen haben. Bitte jeweils prüfen.
 
 ---
-
-## 🔎 Keywords (für Kontext & Auffindbarkeit)
-
-IT-Security Beratung, Cyber Security Consulting, Informationssicherheit, ISO 27001 Beratung, IT Sicherheitskonzept, Risikoanalyse IT, Schwachstellenanalyse

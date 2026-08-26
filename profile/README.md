@@ -1,89 +1,64 @@
-# IT-Security Beratung & Cyber Security Consulting
+# IT-Security für E-Commerce, Shopify, Automationen und KI-Agenten
 
-Willkommen in der offiziellen GitHub-Organisation rund um **IT-Security, Informationssicherheit und Cyber Security Consulting**.
+Willkommen bei **Six Eight Consulting** – der Security-Beratung von Mika Schmidt mit Fokus auf den Bereich E-Commerce.
 
-Diese Organisation dient als zentrale Sammlung für:
+## Schwerpunkte
 
-* Security Best Practices
-* Tools & Skripte für IT-Sicherheit
-* Leitfäden für Unternehmen
-* Praxisnahe Sicherheitskonzepte
+### Shopify & Checkout Security
 
----
+Absicherung von Shopify-Shops und Bezahlprozessen – von Admin-Zugängen bis zu Apps und Kundendaten:
 
-## 🔐 Fokus: IT-Security für Unternehmen
+- Rollen, Berechtigungen und MFA
+- Collaborator-, Agentur- und Freelancer-Zugänge
+- App-Berechtigungen, Themes und Skripte
+- Checkout- und Zahlungsprozesse
+- Kundendaten, Exporte und Offboarding
 
-Moderne Unternehmen stehen vor immer komplexeren Bedrohungen:
+[Mehr über Shopify & Checkout Security](https://six-eight-consulting.de/leistungen/shopify-security/)
 
-* Ransomware & Phishing
-* Schwachstellen in Cloud-Umgebungen
-* Fehlende Sicherheitskonzepte
-* Compliance-Anforderungen (z. B. ISO 27001, NIS2)
+### Automation Security
 
-Genau hier setzt professionelle IT-Security Beratung an.
+Security für Workflows, die Shops, Bestellungen, Kundendaten und externe Tools verbinden:
 
-👉 Mehr dazu:
-**https://six-eight-consulting.de/services/it-security-grundlagen/**
+- n8n, Zapier und Make
+- Credentials, OAuth-Tokens und Secrets
+- Webhooks und öffentlich erreichbare Endpunkte
+- n8n Self-Hosting, Task Runner und Community Nodes
+- AI- und MCP-Funktionen
+- Datenflüsse und Execution Logs
 
----
+[Mehr über Automation Security](https://six-eight-consulting.de/leistungen/automation-security/)
 
-## 🧠 Unsere Expertise
+### Aftersales Security
 
-Die Inhalte basieren auf praktischer Erfahrung aus:
+Schutz der Prozesse nach dem Kauf:
 
-* IT-Security Beratung für KMU & Startups
-* Durchführung von Risikoanalysen & Schwachstellenanalysen
-* Umsetzung von Sicherheitsmaßnahmen nach Best Practices (BSI, NIST, ISO 27001)
+- Sendungsverfolgung und Tracking
+- Retouren und Erstattungen
+- Kundenkonten und Kontoänderungen
+- Support-, Helpdesk- und Agenturzugänge
+- Logistik- und Drittanbieter-Integrationen
+- Bestell-, Adress- und Kontaktdaten
 
----
+[Mehr über Aftersales Security](https://six-eight-consulting.de/leistungen/aftersales-security/)
 
-## 🚀 Typische Themen in dieser Organisation
+### Agent Security
 
-* IT-Sicherheitskonzepte für Unternehmen
-* Security Quick Wins
-* Automatisierung in der IT-Sicherheit
-* Incident Response Grundlagen
-* Awareness & Schulungen
+Kontrollierter Einsatz von KI-Agenten in Support, Produktdaten und Shop-Prozessen:
 
----
+- Tool- und Aktionsrechte
+- Zugriff auf Kunden- und Bestelldaten
+- Schutz vor Prompt Injection und Manipulation
+- Begrenzung kritischer oder schreibender Aktionen
+- Monitoring, Logging und Nachvollziehbarkeit
+- Sichere Anbindung von MCP-Tools und externen Systemen
 
-## 📌 Warum IT-Security entscheidend ist
+[Mehr über Agent Security](https://six-eight-consulting.de/leistungen/agent-security/)
 
-Fehlende Sicherheitsmaßnahmen führen häufig zu:
+## Beratung und Unterstützung
 
-* Datenverlust
-* Betriebsunterbrechungen
-* Reputationsschäden
-* Rechtlichen Konsequenzen
+Six Eight Consulting unterstützt Shop-Owner, E-Commerce-Teams, Operations und IT-Verantwortliche bei Security Reviews, Audits und der Umsetzung priorisierter Maßnahmen.
 
-Eine strukturierte **IT-Security Strategie** reduziert diese Risiken erheblich.
-
----
-
-## 📞 Beratung & Unterstützung
-
-Wenn du Unterstützung bei der Umsetzung von IT-Sicherheit benötigst:
-
-👉 **https://six-eight-consulting.de**
-
-Oder direkt zur Leistung:
-👉 **https://six-eight-consulting.de/services**
-
----
-
-## 🤝 Ziel dieser Organisation
-
-Diese GitHub-Organisation soll:
-
-* Wissen zugänglich machen
-* Unternehmen bei Security-Themen unterstützen
-* Best Practices transparent teilen
-* zur Verbesserung der IT-Sicherheit beitragen
-
----
-
-## 📄 Lizenz
-
-Die Inhalte dieser Organisation können je nach Repository unterschiedliche Lizenzen haben. Bitte jeweils prüfen.
-
----
+- [Alle Leistungen](https://six-eight-consulting.de/leistungen/)
+- [Security-Thema besprechen](https://six-eight-consulting.de/kontakt/)
+- [Über Mika Schmidt](https://six-eight-consulting.de/mika-schmidt/)
